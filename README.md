@@ -54,13 +54,4 @@
 
 ---
 
-
-### 🎯 Goals
-
-- 🚀 Contribute to open-source Angular & JavaScript projects
-- 🧩 Build scalable web apps using Angular, NestJS & PostgreSQL
-- 🔧 Master microservices architecture & DevOps tooling
-
----
-
 > _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
