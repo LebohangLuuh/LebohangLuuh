@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **Angular 19** and **Tailwind CSS**
+- 🌱 Currently learning **Angular 19** and **Spring Boot**
 - 🔨 Building full-stack projects with modern web technologies
 - 💼 Always open to collaboration and freelance opportunities
 - 👨‍💻 View my work: [lebohangluuh.github.io/LP-Mofokeng-profile](https://lebohangluuh.github.io/LP-Mofokeng-profile/)
