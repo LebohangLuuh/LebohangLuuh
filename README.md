@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lebohang Mofokeng</h1>
-<h3 align="center">A passionate full stack development from South Africa</h3>
-
----
+<h3 align="center">💡 Full Stack Developer | FinTech Innovator | Emerging Tech Enthusiast</h3>
 
 ## 👨‍💻 About Me
+
+I'm a passionate Full Stack Developer with a focus on building scalable, user-centric solutions that drive impact, especially in the financial technology space. I thrive on solving complex problems using a modern tech stack and embracing continuous learning.
 
 - 🌱 Currently learning **Angular 19** and **Spring Boot**
 - 🔨 Building full-stack projects with modern web technologies
@@ -53,5 +53,7 @@
 </p>
 
 ---
+
+✨ Fun Fact
 
 > _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
