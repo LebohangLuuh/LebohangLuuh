@@ -52,7 +52,8 @@ I'm a passionate Full Stack Developer with a focus on building scalable, user-ce
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" />
 </p>
 
----
+📊 GitHub Stats & Activity
+<div align="center"> <table> <tr> <td align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lebohangluuh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> </td> <td align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebohangluuh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </td> <td align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lebohangluuh&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </td> </tr> </table> </div>
 
 ✨ Fun Fact
 
