@@ -1,5 +1,9 @@
- <h1 align="center">Hi 👋, I'm Lebohang Mofokeng
+
+ 
+<h1 align="center"> Hi 👋, I'm Lebohang Mofokeng
 <h3 align="center"> Full Stack Engineer | FinTech Solutions Architect | Technology Innovation Specialist
+
+##
 
 ### 🏆Professional Overview
 
@@ -18,9 +22,15 @@ With a strong foundation in modern web frameworks, backend architecture, and dat
 🔗**LinkedIn:** [Lebohang Mofokeng](https://www.linkedin.com/in/lebohang-mofokeng-175b71183/)
 
 ---
+<div align="center">
+💭 "Code is poetry written for machines to execute and humans to understand. Every project is an opportunity to write a masterpiece that changes lives."
+</div>
 
-⚡ Core Technical Competencies
-#### 💻 Languages & Frameworks
+##
+
+
+### ⚡ Core Technical Competencies
+
 <p style="display: flex; gap: 15px;">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40" alt="Angular" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
@@ -107,3 +117,5 @@ Open to consulting, full-time roles, and collaborations where I can apply full-s
 💡 Professional Philosophy
 
 *"The best technology solutions don’t just work - they scale, adapt, and create impact. I believe in engineering with purpose: writing code that solves real problems, drives innovation, and improves people’s digital experiences."*
+
+
